@@ -22,7 +22,7 @@ user_pref("app.update.lastUpdateTime.services-settings-poll-changes", 1618427792
 user_pref("app.update.lastUpdateTime.telemetry_modules_ping", 1618427342);
 user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1618428032);
 user_pref("browser.bookmarks.restore_default_bookmarks", false);
-user_pref("browser.cache.disk.amount_written", 92561);
+user_pref("browser.cache.disk.amount_written", 144367);
 user_pref("browser.cache.disk.capacity", 1048576);
 user_pref("browser.cache.disk.filesystem_reported", 1);
 user_pref("browser.contentblocking.category", "standard");
@@ -35,8 +35,8 @@ user_pref("browser.newtabpage.storageVersion", 1);
 user_pref("browser.pageActions.persistedActions", "{\"version\":1,\"ids\":[\"bookmark\",\"pinTab\",\"bookmarkSeparator\",\"copyURL\",\"emailLink\",\"addSearchEngine\",\"sendToDevice\",\"pocket\",\"screenshots_mozilla_org\"],\"idsInUrlbar\":[\"pocket\",\"bookmark\"]}");
 user_pref("browser.pagethumbnails.storage_version", 3);
 user_pref("browser.policies.runOncePerModification.displayBookmarksToolbar", "false");
-user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1618427347928");
-user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1618429141928");
+user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1618429146164");
+user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1618430916164");
 user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1618427297401");
 user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1618448897401");
 user_pref("browser.shell.mostRecentDateSetAsDefault", "1618427289");
@@ -72,6 +72,8 @@ user_pref("gfx.blacklist.layers.opengl.failureid", "FEATURE_FAILURE_SOFTWARE_GL"
 user_pref("media.gmp-gmpopenh264.abi", "x86_64-gcc3");
 user_pref("media.gmp-gmpopenh264.lastUpdate", 1618427917);
 user_pref("media.gmp-gmpopenh264.version", "1.8.1.1");
+user_pref("media.gmp-manager.buildID", "20210119174753");
+user_pref("media.gmp-manager.lastCheck", 1618429279);
 user_pref("media.gmp.storage.version.observed", 1);
 user_pref("pdfjs.enabledCache.state", true);
 user_pref("pdfjs.migrationVersion", 2);
