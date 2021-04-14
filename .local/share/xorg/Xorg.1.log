@@ -369,3 +369,4 @@ X Protocol Version 11, Revision 0
 [   235.117] (II) event7  - VirtualBox mouse integration: SYN_DROPPED event - some input events have been lost.
 [   711.064] (II) event7  - VirtualBox mouse integration: SYN_DROPPED event - some input events have been lost.
 [   967.368] (EE) event7  - VirtualBox mouse integration: client bug: event processing lagging behind by 14ms, your system is too slow
+[  2627.995] (EE) client bug: timer event4 debounce short: scheduled expiry is in the past (-0ms), your system is too slow

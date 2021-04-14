@@ -11,13 +11,13 @@ www.googletagmanager.com:HSTS	0	18731	1649963802608,1,1,2
 services.addons.mozilla.org:HSTS	0	18731	1649963913290,1,0,2
 accounts.google.com:HSTS	0	18731	1649963316391,1,1,2
 cst.cstwpush.com:HSTS	0	18731	1633981107937,1,1,2
-github.com:HSTS	0	18731	1649965213468,1,1,2
+github.com:HSTS	0	18731	1649965698129,1,1,2
 docs.github.com:HSTS	0	18731	1633980097357,1,1,2
 cdn.jsdelivr.net:HSTS	0	18731	1649965112716,1,1,2
-medium.com:HSTS	0	18731	1633981214525,1,1,2
+medium.com:HSTS	0	18731	1633981543643,1,1,2
 static.addtoany.com:HSTS	0	18731	1649965108928,1,1,2
 geolocation.onetrust.com:HSTS	0	18731	1649965115606,1,1,2
-alive.github.com:HSTS	0	18731	1649963752184,1,0,2
+alive.github.com:HSTS	0	18731	1649965433738,1,0,2
 fonts.googleapis.com:HSTS	0	18731	1649963870004,1,0,2
 apis.google.com:HSTS	0	18731	1649965076253,1,0,2
 camo.githubusercontent.com:HSTS	0	18731	1649963575827,1,1,2
@@ -30,7 +30,7 @@ miro.medium.com:HSTS	0	18731	1633980150594,1,1,2
 cdn.optimizely.com:HSTS	0	18731	1634197130614,1,0,2
 ogs.google.com:HSTS	0	18731	1649963862830,1,0,2
 cdn.zx-adnet.com:HSTS	0	18731	1649986035662,1,0,2
-api.github.com:HSTS	0	18731	1649965216364,1,1,2
+api.github.com:HSTS	0	18731	1649965698069,1,1,2
 cdn-client.medium.com:HSTS	0	18731	1633980140413,1,1,2
 load02.biz:HSTS	0	18731	1649965108780,1,0,2
 github.githubassets.com:HSTS	0	18731	1649965190971,1,0,2
